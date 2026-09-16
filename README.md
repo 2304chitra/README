@@ -1,6 +1,9 @@
 # README
-# 💫 About Me:
-HELLO!!!🙋‍♀️,<br>I'm chitrashree currently pursuing BCA📖,<br>with a passion for Data Analytics📊 & Frontend Development💻,<br> I'm excited to share my projects and collaborate with others on GitHub🔗,<br>heck out my repositories and let's connect!!🤝,<br>looking for early career opportunity to gain practical experience🔍.<br>THANK YOU
+# 💫 About Me
+HELLO!!! 🙋‍♀️ 
+I'm Chitrashree B, a recent BCA graduate 🎓 passionate about Data Analytics 📊 and Frontend Development 💻. 
+I love building projects, sharing my code on GitHub 🔗, and collaborating with the community. Currently seeking entry-level opportunities 🔍 to kickstart my career and deliver real-world value!
+Check out my repositories and let's connect!! 🤝
 
 
 ## 🌐 Socials:
